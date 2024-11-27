@@ -62,7 +62,7 @@ namespace Bài_kiểm_tra_số_1
             }
             catch 
             {
-                MessageBox.Show("Vuiv123 lòng nhập lại số", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Vuiv123 345 lòng nhập lại số", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 
